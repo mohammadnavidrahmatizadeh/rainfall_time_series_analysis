@@ -40,5 +40,5 @@ lines(test,col='red')
 plot(ts,col='blue',xlab = 'time (year)',ylab='rain (mm)')
 
 
-# project end is here and added by Navid
+# project end is here and added by github remote
 
